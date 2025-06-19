@@ -49,3 +49,7 @@ Whether you're an educational institution looking to enhance your digital capabi
   </p>
   <p><em>© 2025 Davils - Empowering education through technology</em></p>
 </div>
+
+<div align="center">
+  <img src="assets/banner.png" alt="Redtronics Logo Banner">
+</div>
