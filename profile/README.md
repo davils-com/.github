@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/profile.png" alt="Davils logo" width="200" height="200">
-  <h1>✨ DAVILS ✨</h1>
+  <h1>✨ Davils ✨</h1>
   <h3>🚀 ARISE YOUR FUTURE WITH US 🚀</h3>
 
   [![Innovation First](https://img.shields.io/badge/Innovation-First-orange?style=for-the-badge)](https://github.com/Davils)
@@ -29,28 +29,17 @@ Through our state-of-the-art applications, we're breaking down barriers and open
 
 ## 💫 WHAT SETS US APART
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📱 Educational Apps</h3>
-      <p>Intuitive, powerful applications designed for today's diverse learning styles.</p>
-    </td>
-    <td width="50%">
-      <h3>🖥️ Learning Management</h3>
-      <p>Comprehensive platforms that make education administration seamless.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎮 Interactive Learning</h3>
-      <p>Gamified tools that transform complex concepts into engaging experiences.</p>
-    </td>
-    <td width="50%">
-      <h3>🧠 AI-Powered Personalization</h3>
-      <p>Adaptive technology that creates unique learning journeys for every user.</p>
-    </td>
-  </tr>
-</table>
+### 📱 Educational Apps
+Intuitive, powerful applications designed for today's diverse learning styles.
+
+### 🖥️ Learning Management
+Comprehensive platforms that make education administration seamless.
+
+### 🎮 Interactive Learning
+Gamified tools that transform complex concepts into engaging experiences.
+
+### 🧠 AI-Powered Personalization
+Adaptive technology that creates unique learning journeys for every user.
 
 ## 🌈 OUR PHILOSOPHY
 
@@ -78,6 +67,4 @@ Davils is your partner in educational excellence. Together, we'll redefine what'
   [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/davils_official)
   [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/davils_official/)
   [![Hacker News](https://img.shields.io/badge/Hacker_News-F0652F?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=davils)
-
-  <p><em>© 2025 Davils - Transforming Tomorrow Through Technology Today</em></p>
 </div>
