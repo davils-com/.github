@@ -1,6 +1,9 @@
 <div align="center">
+  <img src="assets/profile.png" alt="Redtronics logo" width="200" height="200">
+</div>
 
-  # Davils
+<div align="center">
+  <h1>Davils</h1>
   <p><em>Arise your future with us!</em></p>
 </div>
 
